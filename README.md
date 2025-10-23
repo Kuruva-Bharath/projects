@@ -1,2 +1,2 @@
-this is read me file 
-i have another line
+this is read me file,
+i have another line.
